@@ -32,5 +32,47 @@
 // let str = "472";
 // let num = Number(str);  
 // document.write(typeof num)
-let user = prompt("please input peanuts")
-let upper =document.write(user.toUpperCase())
+// let user = prompt("please input peanuts")
+// let upper =document.write(user.toUpperCase())
+// let userInput=prompt('Please enter any word');
+// let firstChar=userInput.slice(0,1);
+// firstChar=firstChar.toUpperCase();
+// let otherChars=userInput.slice(1);
+// otherChars=otherChars.toLowerCase();
+// let titleCase=firstChar+otherChars;
+// document.write('User Input :'+userInput+"<br>"+'Title case :'+titleCase );
+// let num = "34.34"
+// let result =num.toString()
+// result = num.replace(".","")
+// document.write(result)
+
+// let user = prompt("enter your name");
+// let Code;
+// for(let i=0;i<user.length;i++){
+//     Code=user.charCodeAt(i);
+//      if(Code===33||Code===44||Code===46||Code===64){
+//         alert("Please enter a valid username")
+//      }
+
+
+// }
+// let bakery = ["cake", "apple pie", "cookie", "chips", "patties"];
+// let userInput = prompt("What do you want to order: ");
+// userInput = userInput.toLowerCase();
+//  let flag = false;
+// for (let i = 0; i < bakery.length; i++) {
+//     if (userInput === bakery[i]) {
+//         document.write(bakery[i] + " is available at index " + i + " in our bakery");
+//         flag = true;
+//     }
+// }
+// if (flag === false) {
+//     document.write("We are sorry. " + userInput + " is not available in our bakery");
+// }
+
+
+
+
+
+
+
