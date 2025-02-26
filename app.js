@@ -69,10 +69,33 @@
 // if (flag === false) {
 //     document.write("We are sorry. " + userInput + " is not available in our bakery");
 // }
+// let password = prompt("Enter your password:");
+
+// if (password.length >= 6 && 
+// /[a-z  A-z]/.test(password) && 
+//     /[0-9]/.test(password) && 
+//     isNaN(password[0])) {
+//     alert("Password Approved!");
+// } else {
+//     alert("Enter a valid Password")}
 
 
 
+// let university = "University of Karachi";
 
 
+// let universityArray = university.split(" ");
 
+// document.write("The elements of the array are: <br>");
+// for (var i = 0; i < universityArray.length; i++) {
+//     document.write(universityArray[i] + "<br>");
+// }
+// let userInput = "pakistan"
+// let result = userInput.charAt("7")
+// document.write(result)
 
+// let str='The quick brown fox jumps over the lazy dog';
+// str =str.toLowerCase();
+// let count=str.match(/the/g);
+// let length=count.length;
+// // document.write(length)
